@@ -1,0 +1,11 @@
+
+Commands for the scripts:
+
+perl dgh 0.0.0.0 53 0
+
+perl dgh.pl 0.0.0.0 53 65500 0
+
+perl weed 0.0.0.0 53 0
+
+perl udp.pl 0.0.0.0 53 1 10000 10 0
+
